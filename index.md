@@ -1,7 +1,3 @@
-<head>
-    <meta charset="utf-8" />
-
-    <title>iizuum</title>
-</head>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/306edeb078abdc9df7fbe260b/f46f74c482aa0ce8a6838db08.js");</script>
 
 ## Welcome to GitHub Pages
